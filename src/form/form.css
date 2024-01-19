@@ -1,0 +1,97 @@
+.Form{
+    background-color: #224957
+    ;
+}
+.input-type {
+    width: 300px;
+    height: 45px;
+    background-color:#55a1bd;
+    border: none;
+    border-radius: 10px;
+    margin-top: 30px;
+
+}
+.input-type:hover{
+    color: white;
+}
+
+.input-type::placeholder {
+    color: white;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    color: black;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sign_in_name_parents {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.sign_in_name_name {
+    width: 212px;
+    height: 80px;
+    font-weight: 400;
+    font-size: 64px;
+    color: white;
+    line-height: 80px;
+
+}
+
+.sign_under_text_text {
+
+    width: 347px;
+    height: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0px;
+    color: white;
+
+}
+.chechbox-menu{
+    display: flex;
+
+}
+
+.remember-me-me{
+   padding: 0 30px;
+   color: white;
+}
+.Forgot{
+    color:  #20DF7F;
+    
+}
+.button-to-sign{
+    width: 300px;
+    height: 45px;
+    border-radius: 10px;
+    background: #20DF7F;
+    color: white;
+}
+.photo-footer-daddy-daddy{
+    background:url(../img/Vectors\ \(1\).png);
+    width: 100%;
+    height: 111px;
+    margin-top: 390px;
+}
+.change-button-href{
+  
+}
+.change-button-button{
+   background: none;
+   border: none;
+}
